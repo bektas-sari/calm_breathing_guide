@@ -1,6 +1,7 @@
 # 🌬️ Calm Breathing Guide
 
-A peaceful Flutter app that guides users through deep breathing cycles with calming animations. The app visualizes the breathing rhythm using a growing and shrinking circle and changes text instructions like “Inhale”, “Hold”, and “Exhale” in sync with the animation.
+A peaceful Flutter app that guides users through deep breathing cycles with calming animations. 
+The app visualizes the breathing rhythm using a growing and shrinking circle and changes text instructions like “Inhale”, “Hold”, and “Exhale” in sync with the animation.
 
 ---
 

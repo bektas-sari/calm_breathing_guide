@@ -50,7 +50,8 @@ flutter run
 
 ## 🧩 Customization
 
-You can adjust the duration of the breathing cycle, colors, and text prompts in `main.dart`. Ideal for meditation, relaxation, and focus exercises.
+You can adjust the duration of the breathing cycle, colors, and text prompts in `main.dart`. 
+Ideal for meditation, relaxation, and focus exercises.
 
 ---
 
@@ -63,5 +64,5 @@ Created by **Bektas Sari**
 
 ## 📄 License
 
-MIT License © 2024 Bektas Sari
+MIT License © 2025 Bektas Sari
 

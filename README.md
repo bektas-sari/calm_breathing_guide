@@ -15,12 +15,6 @@ The app visualizes the breathing rhythm using a growing and shrinking circle and
 
 ---
 
-## 📷 Screenshots
-
-_Add screenshots here if available (e.g., assets/screenshots/breathing.png)_
-
----
-
 ## 🛠 Built With
 
 - Flutter  

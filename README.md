@@ -30,7 +30,7 @@ The app visualizes the breathing rhythm using a growing and shrinking circle and
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/calm_breathing_guide.git
+git clone https://github.com/bektas-sari/calm_breathing_guide.git
 cd calm_breathing_guide
 ```
 
